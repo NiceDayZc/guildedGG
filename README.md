@@ -1,1 +1,2 @@
-# guildedGG
+# guildedGG 
+simple guilded gen 
